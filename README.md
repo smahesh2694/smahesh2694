@@ -50,4 +50,4 @@
 [website]: https://msudhakar.com/
 [instagram]: https://www.instagram.com/mahesh26/
 [linkedin]: https://www.linkedin.com/in/mahesh-sudhakar-utoronto/
-[projetcs]: https://msudhakar.com/#projects
+[projects]: https://msudhakar.com/#projects
