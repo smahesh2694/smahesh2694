@@ -35,7 +35,6 @@
 <img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="ROS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1024px-Ros_logo.svg.png" />
-<img align="left" alt="ubuntu" width="26px" src="https://w7.pngwing.com/pngs/540/630/png-transparent-ubuntu-linux-debian-computer-software-16-text-computer-logo.png" />
 
 <br />
 <br />
