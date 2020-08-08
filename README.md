@@ -12,6 +12,7 @@
 [<img align="left" alt="smahesh2694 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
