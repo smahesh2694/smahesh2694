@@ -1,6 +1,6 @@
 ## Hi there, I'm [Mahesh][website] 👋
 
-- 🔭 I’m a Research Assistant.
+- 🔭 I’m a Research Associate at the Multimedia Laboratory at the University of Toronto.
 - 🌱 I love to learn! 
 - 👯 I’m looking to collaborate with other AI enthusiasts for Open Source projects. 
 - ⚡ I'm also actively seeking full-time job opportunities! 
