@@ -39,12 +39,6 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smahesh2694&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-<br />
-<br />
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=smahesh2694&repo=NEU_XAI&show_owner=true)](https://github.com/smahesh2694/NEU_XAI) -->
-
 [website]: https://msudhakar.com/
 [instagram]: https://www.instagram.com/mahesh26/
 [linkedin]: https://www.linkedin.com/in/mahesh-sudhakar-utoronto/
