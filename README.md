@@ -1,9 +1,8 @@
 ## Hi there, I'm [Mahesh][website] 👋
 
-- 🔭 I’m a Research Associate at the Multimedia Laboratory at the University of Toronto.
-- 🌱 I love to learn! 
-- 👯 I’m looking to collaborate with other AI enthusiasts for Open Source projects. 
-- ⚡ I'm also actively seeking full-time job opportunities! 
+- 🌱 Computer Vision Research Engineer
+- 🔭 Former Research Associate at the Multimedia Laboratory at the University of Toronto.
+- 👯 Looking to collaborate with other AI enthusiasts for Open Source projects. 
 
 ### Connect with me:
 
