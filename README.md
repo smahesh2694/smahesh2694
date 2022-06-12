@@ -2,7 +2,7 @@
 
 - 🌱 Computer Vision Research Engineer
 - 🔭 Former Research Associate at the Multimedia Laboratory at the University of Toronto.
-- 👯 Active account -> @mahesh-musashi 
+- 👯 Active account -> [@mahesh-musashi](https://github.com/mahesh-musashi)
 
 ![](https://komarev.com/ghpvc/?username=smahesh2694&color=brightgreen&label=PROFILE+VIEWS)
 
